@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 0 50px;
+    font-family: 'Mulish', sans-serif;
+}
+header{
+    margin-top: 48px;
+    margin-bottom: 105px;
+}
+a{
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+font-size: 36px;
+line-height: 45px;
+text-align: center;
+color: #000000;
+margin-bottom: 75px;
+}
+.menu{
+    text-align: right;
+}
+.menu-link{
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F1534;
+    opacity: 0.5;
+}
+.virtual-healthcare{
+    margin-bottom: 96px;
+}
+.virtual-healthcare h1{
+    font-weight: bold;
+font-size: 48px;
+line-height: 60px;
+color: #000000;
+margin-bottom: 24px;
+}
+.virtual-healthcare p{
+    font-weight: 300;
+font-size: 21px;
+line-height: 32px;
+color: #7D7987;
+margin-bottom: 33px;
+}
+.virtual-healthcare a{
+    font-weight: bold;
+font-size: 18px;
+line-height: 60px;
+color: #458FF6;
+border: 1.4px solid #458FF6;
+box-sizing: border-box;
+border-radius: 55px;
+text-align: center;
+}
+.menu-link:hover{
+    font-weight: bold;
+    color: #1F1534;
+}
+.services h4{
+    font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+color: #000000;
+margin: 25px 0;
+}
+.services p{
+    font-weight: 300;
+font-size: 16px;
+line-height: 28px;
+color: #7D7987;
+}
+.virtual-healthcare__img{
+    text-align: right;
+}
+.services-block{
+    padding: 55px 48px 46px 43px;
+    background: #FFFFFF;
+box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+border-radius: 20px;
+}
+.services-row{
+    margin-top: 37px;
+}
